@@ -1,0 +1,123 @@
+{
+  "self-museum": {
+    "setting": {},
+    "externalInfo": {}
+  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://app.cultural.jp/self-museum/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "東京大学総合図書館ウェブ展示会場",
+  "viewingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Provided by Self Museum",
+  "collections": [
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/0",
+      "@type": "sc:Collection",
+      "label": "石本コレクション",
+      "manifests": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0dc7df43-c368-43cc-b4be-faa1b4c1b714/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/541c0118-893b-4c14-aa18-d465a4fc2ad2/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    },
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/1",
+      "@type": "sc:Collection",
+      "label": "貴重図書",
+      "manifests": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9e2474b-1945-48ed-3635-6fa51f2d49af/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d28ad412-0d21-4a16-ab81-840fe3ffde71/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    },
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/2",
+      "@type": "sc:Collection",
+      "label": "亀井文庫ピラネージ版画集",
+      "manifests": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64b8fc0b-b4ef-42d9-a49c-63fdb4315163/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64346f2f-29fd-43ca-af0b-01c5adc38364/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f5b70d5-3245-4c6d-94a2-3619529f8d49/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38197f83-8f97-4d18-87e0-da5222ca938d/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c528a059-75bf-4031-8f0b-dcbb2a69f6ed/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3925c18d-4d91-4b37-864d-0dcd93dad8ca/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    },
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/3",
+      "@type": "sc:Collection",
+      "label": "東京大学史",
+      "manifests": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/952f7be5-2dec-40a7-b28a-0d5ccc91124e/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4326b23b-0502-4a52-8bf6-072fb4e36dca/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8587707e-2c61-6e21-987f-345265ab324b/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    }
+  ]
+}
