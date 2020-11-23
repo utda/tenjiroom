@@ -1,0 +1,1073 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json",
+    "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+  ],
+  "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5",
+  "@type": "cr:Curation",
+  "label": "総合図書館バーチャルミュージアム",
+  "selections": [
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range1",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p37#xywh=114,252,2740,1220",
+          "@type": "sc:Canvas",
+          "label": "1：赤門及び医科大学の一部",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 0,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p42#xywh=430,300,1900,1492",
+          "@type": "sc:Canvas",
+          "label": "2：陸上運動会（棒飛）",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 1,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p45#xywh=426,300,1892,1484",
+          "@type": "sc:Canvas",
+          "label": "3：図書館学生閲覧室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 2,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p49#xywh=406,312,1920,1500",
+          "@type": "sc:Canvas",
+          "label": "4：法科大学教室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 3,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p53#xywh=414,304,1924,1488",
+          "@type": "sc:Canvas",
+          "label": "5：生理学実験室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 4,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p57#xywh=418,324,1916,1464",
+          "@type": "sc:Canvas",
+          "label": "6：病理学講義室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 5,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p61#xywh=438,312,1900,1500",
+          "@type": "sc:Canvas",
+          "label": "7：薬物学教室化学実験室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 6,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p67#xywh=442,304,1900,1496",
+          "@type": "sc:Canvas",
+          "label": "8：外科手術室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 7,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p77#xywh=418,304,1956,1512",
+          "@type": "sc:Canvas",
+          "label": "9：婦人科耳鼻咽喉科及眼科外来診察所",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 8,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p81#xywh=398,308,1972,1496",
+          "@type": "sc:Canvas",
+          "label": "10：機械工学列品室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 9,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p84#xywh=414,320,1896,1504",
+          "@type": "sc:Canvas",
+          "label": "11：造船学列品室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 10,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p92#xywh=418,292,1924,1480",
+          "@type": "sc:Canvas",
+          "label": "12：試金実験室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 11,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p102#xywh=446,296,1896,1496",
+          "@type": "sc:Canvas",
+          "label": "13：植物園の一部",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 12,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p110#xywh=422,312,1904,1492",
+          "@type": "sc:Canvas",
+          "label": "14：農学教室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 13,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p115#xywh=450,320,1920,1492",
+          "@type": "sc:Canvas",
+          "label": "15：農科大学温室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 14,
+                "roomId": 0
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/canvas/p118#xywh=458,312,1900,1476",
+          "@type": "sc:Canvas",
+          "label": "16：養蚕室",
+          "description": "写真帖『東京帝國大學』明治37年(1904)年版　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 15,
+                "roomId": 0
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8b0089a9-66fc-4833-ab13-21d92f7f7aa4/manifest",
+        "@type": "sc:Manifest",
+        "label": "写真帖『東京帝國大學』明治37年(1904)年版"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range2",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=70788,96,3984,2344",
+          "@type": "sc:Canvas",
+          "label": "1:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 0,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range3",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/10#xywh=36,752,6624,4368",
+          "@type": "sc:Canvas",
+          "label": "1:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 1,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range4",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=67548,1024,3232,1792",
+          "@type": "sc:Canvas",
+          "label": "2:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 2,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range5",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/11#xywh=364,4560,3440,2048",
+          "@type": "sc:Canvas",
+          "label": "2:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 3,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range6",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=15106,1276,1452,1456",
+          "@type": "sc:Canvas",
+          "label": "3:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 4,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range7",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/16#xywh=0,3552,1840,2272",
+          "@type": "sc:Canvas",
+          "label": "3:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 5,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range8",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=53274,428,1364,1972",
+          "@type": "sc:Canvas",
+          "label": "4:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 6,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range9",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/21#xywh=468,1448,4000,3576",
+          "@type": "sc:Canvas",
+          "label": "4:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 7,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range10",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=54660,528,2096,1576",
+          "@type": "sc:Canvas",
+          "label": "5:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 8,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range11",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/22#xywh=776,3088,4032,2992",
+          "@type": "sc:Canvas",
+          "label": "5:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 9,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range12",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=31844,160,3440,2656",
+          "@type": "sc:Canvas",
+          "label": "6:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 10,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range13",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/23#xywh=440,720,5456,5920",
+          "@type": "sc:Canvas",
+          "label": "6:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 11,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range14",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=26020,160,2896,2648",
+          "@type": "sc:Canvas",
+          "label": "7:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 12,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range15",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/25#xywh=108,2520,4592,3720",
+          "@type": "sc:Canvas",
+          "label": "7:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 13,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range16",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=7924,400,3456,2504",
+          "@type": "sc:Canvas",
+          "label": "8:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 14,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range17",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/27#xywh=1480,1216,5216,5568",
+          "@type": "sc:Canvas",
+          "label": "8:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 15,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range18",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=5372,208,2296,1256",
+          "@type": "sc:Canvas",
+          "label": "9:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 16,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range19",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/29#xywh=2028,3776,3848,2504",
+          "@type": "sc:Canvas",
+          "label": "9:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 17,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range20",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/canvas/p1#xywh=74526,1352,1388,1464",
+          "@type": "sc:Canvas",
+          "label": "10:東大「百鬼夜行図」",
+          "description": "東京大学総合図書館所蔵「百鬼夜行図」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 18,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fbd0479b-dbb4-4eaa-95b8-f27e1c423e4b/manifest",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行図"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range21",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/canvas/9#xywh=2772,3584,2672,3088",
+          "@type": "sc:Canvas",
+          "label": "10:NDL「百鬼夜行絵巻」",
+          "description": "国立国会図書館所蔵「百鬼夜行絵巻」　から",
+          "manifest": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 19,
+                "roomId": 1
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://www.dl.ndl.go.jp/api/iiif/2541003/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "百鬼夜行絵巻"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range22",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p1#xywh=300,744,6440,4216",
+          "@type": "sc:Canvas",
+          "label": "1：生捕ました三度の大地震",
+          "description": "「石本コレクション」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 0,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/manifest",
+        "@type": "sc:Manifest",
+        "label": "生捕ました三度の大地震"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range23",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p1#xywh=312,352,4176,6112",
+          "@type": "sc:Canvas",
+          "label": "2：鯰之讎討",
+          "description": "「石本コレクション」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 1,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/manifest",
+        "@type": "sc:Manifest",
+        "label": "鯰之讎討"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range24",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/723553d0-4a10-43fa-991c-7e46c6b6b01d/canvas/p1#xywh=360,560,4016,5744",
+          "@type": "sc:Canvas",
+          "label": "3：百一年目の日蝕",
+          "description": "「石本コレクション」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/723553d0-4a10-43fa-991c-7e46c6b6b01d/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 2,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/723553d0-4a10-43fa-991c-7e46c6b6b01d/manifest",
+        "@type": "sc:Manifest",
+        "label": "百一年目の日蝕"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range25",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/canvas/p1#xywh=248,288,5984,8064",
+          "@type": "sc:Canvas",
+          "label": "4：ピラネージ肖像画",
+          "description": "亀井文庫「ピラネージ版画集」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 3,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest",
+        "@type": "sc:Manifest",
+        "label": "Ritratto di G. B. Piranesi da F. Piranesi."
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range26",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38197f83-8f97-4d18-87e0-da5222ca938d/canvas/p1#xywh=232,192,5104,6656",
+          "@type": "sc:Canvas",
+          "label": "5：想像上の牢獄",
+          "description": "亀井文庫「ピラネージ版画集」　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38197f83-8f97-4d18-87e0-da5222ca938d/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 4,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38197f83-8f97-4d18-87e0-da5222ca938d/manifest",
+        "@type": "sc:Manifest",
+        "label": "Frontespizio. Interno di prigione con scala e passarelle, strumenti di tortura, catene; in primo piano, in basso, una ruota ad aculei; in alto una figura urlante in ceppi; nel centro la scritta; Carceri d'invenzione di G. Battista Piranesi Archit, Vene."
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range27",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f31c02e5-5f1c-4bf6-a3d0-90863ce8973f/canvas/p8#xywh=0,16,4256,3352",
+          "@type": "sc:Canvas",
+          "label": "6：膳部之事",
+          "description": "「鴎外文庫」（書き入れ本）　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f31c02e5-5f1c-4bf6-a3d0-90863ce8973f/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 5,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f31c02e5-5f1c-4bf6-a3d0-90863ce8973f/manifest",
+        "@type": "sc:Manifest",
+        "label": "膳部之事(ゼンブ ノ コト) . [写本]"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range28",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/58539ab0-8bc6-4cb1-95bb-5c28ce2749c7/canvas/p19#xywh=258,224,3116,2664",
+          "@type": "sc:Canvas",
+          "label": "7：烏琴齋雜録",
+          "description": "「鴎外文庫」（書き入れ本）　から",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/58539ab0-8bc6-4cb1-95bb-5c28ce2749c7/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 6,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/58539ab0-8bc6-4cb1-95bb-5c28ce2749c7/manifest",
+        "@type": "sc:Manifest",
+        "label": "烏琴齋雜録(ウキンサイ ザツロク) / 不操愛琴居士録. [写本]"
+      }
+    },
+    {
+      "@id": "https://mp.ex.nii.ac.jp/api/curation/json/d9b3c8e6-f2a1-47df-96b2-2cc394d454a5/range29",
+      "@type": "sc:Range",
+      "label": "Manual curation by IIIF Curation Viewer",
+      "members": [
+        {
+          "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/canvas/p1#xywh=0,640,7632,8784",
+          "@type": "sc:Canvas",
+          "label": "8：救世主像",
+          "description": "",
+          "manifest": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 7,
+                "roomId": 2
+              }
+            }
+          ]
+        }
+      ],
+      "within": {
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest",
+        "@type": "sc:Manifest",
+        "label": "救世主像"
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": "selfMuseumRooms",
+      "value": [
+        "明治時代の東大を見る　－写真帖『東京帝國大學』から－",
+        "絵巻物を比較して見る　－百鬼夜行図から－",
+        "総合図書館資料アラカルト"
+      ]
+    }
+  ]
+}
