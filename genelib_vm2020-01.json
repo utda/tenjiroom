@@ -1058,7 +1058,34 @@
         "@type": "sc:Manifest",
         "label": "救世主像"
       }
-    }
+    },
+    {
+			"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/range/r45",
+			"@type": "sc:Range",
+			"label": "Manual curation by IIIF Curation Viewer",
+			"members": [
+				{
+					"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/canvas/p1",
+					"@type": "sc:Canvas",
+					"label": "9：松乃栄",
+          "description": "",
+          "metadata": [
+            {
+              "label": "selfMuseumRoom",
+              "value": {
+                "position": 8,
+                "roomId": 2
+              }
+            }
+          ]
+				}
+			],
+			"within": {
+				"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest",
+				"@type": "sc:Manifest",
+				"label": "松乃栄"
+			}
+		}
   ],
   "metadata": [
     {
